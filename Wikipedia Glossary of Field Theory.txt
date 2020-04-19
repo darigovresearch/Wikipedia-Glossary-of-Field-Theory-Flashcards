@@ -2,7 +2,6 @@
 </p><p>The non-zero elements of a field <i>F</i> form an <a href=""https://en.wikipedia.org/wiki/Abelian_group"" title=""Abelian group"">abelian group</a> under multiplication; this group is typically denoted by <i>F</i><sup>×</sup>;
 </p><p>The <a href=""https://en.wikipedia.org/wiki/Polynomial_ring"" title=""Polynomial ring"">ring of polynomials</a> in the variable <i>x</i> with coefficients in <i>F</i> is denoted by <i>F</i>[<i>x</i>].
 </p>
-<h2><span class=""mw-headline"" id=""Basic_definitions"">Basic definitions</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=2"" title=""Edit section: Basic definitions"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Characteristic_(algebra)"" title=""Characteristic (algebra)"">Characteristic</a></b>&#160;</dt>
 <dd>The <i>characteristic</i> of the field <i>F</i> is the smallest positive <a href=""https://en.wikipedia.org/wiki/Integer"" title=""Integer"">integer</a> <i>n</i> such that <i>n</i>·1 = 0; here <i>n</i>·1 stands for <i>n</i> summands 1 + 1 + 1 + ... + 1. If no such  <i>n</i> exists, we say the characteristic is zero. Every non-zero characteristic is a <a href=""https://en.wikipedia.org/wiki/Prime_number"" title=""Prime number"">prime number</a>. For example, the <a href=""https://en.wikipedia.org/wiki/Rational_number"" title=""Rational number"">rational numbers</a>, the <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real numbers</a> and the <a href=""https://en.wikipedia.org/wiki/P-adic_numbers"" class=""mw-redirect"" title=""P-adic numbers""><i>p</i>-adic numbers</a> have characteristic 0, while the finite field <b>Z</b><sub><i>p</i></sub> where <i>p</i> is prime has characteristic <i>p</i>.</dd></dl>
 <dl><dt><b>Subfield</b>&#160;</dt>
@@ -41,7 +40,6 @@
 <dd>Elements of an extension field of <i>F</i> are <i>algebraically independent</i> over <i>F</i> if they don't satisfy any non-zero polynomial equation with coefficients in <i>F</i>.</dd></dl>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Transcendence_degree"" title=""Transcendence degree"">Transcendence degree</a></b>&#160;</dt>
 <dd>The number of algebraically independent transcendental elements in a field extension. It is used to define the <a href=""https://en.wikipedia.org/wiki/Dimension_of_an_algebraic_variety"" title=""Dimension of an algebraic variety"">dimension of an algebraic variety</a>.</dd></dl>
-<h2><span class=""mw-headline"" id=""Homomorphisms"">Homomorphisms</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=3"" title=""Edit section: Homomorphisms"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <dl><dt><b>Field homomorphism</b>&#160;</dt>
 <dd>A <i>field homomorphism</i> between two fields <i>E</i> and <i>F</i> is a <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a>
 <dl><dd><i>f</i>&#160;: <i>E</i> → <i>F</i></dd></dl></dd>
@@ -52,7 +50,6 @@
 <dd>These properties imply that <span class=""nowrap""><i>f</i>(0) = 0</span>, <span class=""nowrap""><i>f</i>(<i>x</i><sup>−1</sup>) = <i>f</i>(<i>x</i>)<sup>−1</sup></span> for <i>x</i> in <i>E</i> with <span class=""nowrap""><i>x</i> ≠ 0</span>, and that <i>f</i> is <a href=""https://en.wikipedia.org/wiki/Injective"" class=""mw-redirect"" title=""Injective"">injective</a>. Fields, together with these homomorphisms, form a <a href=""https://en.wikipedia.org/wiki/Category_theory"" title=""Category theory"">category</a>. Two fields <i>E</i> and <i>F</i> are called <b>isomorphic</b> if there exists a <a href=""https://en.wikipedia.org/wiki/Bijective"" class=""mw-redirect"" title=""Bijective"">bijective</a> homomorphism
 <dl><dd><i>f</i>&#160;: <i>E</i> → <i>F</i>.</dd></dl></dd>
 <dd>The two fields are then identical for all practical purposes; however, not necessarily in a <i>unique</i> way. See, for example, <a href=""https://en.wikipedia.org/wiki/Complex_conjugation"" class=""mw-redirect"" title=""Complex conjugation"">complex conjugation</a>.</dd></dl>
-<h2><span class=""mw-headline"" id=""Types_of_fields"">Types of fields</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=4"" title=""Edit section: Types of fields"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Finite_field"" title=""Finite field"">Finite field</a></b>&#160;</dt>
 <dd>A field with finitely many elements. Aka <b>Galois field</b>.</dd></dl>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Ordered_field"" title=""Ordered field"">Ordered field</a></b>&#160;</dt>
@@ -92,7 +89,6 @@
 <dd>A field over which no <a href=""https://en.wikipedia.org/wiki/Biquaternion_algebra"" title=""Biquaternion algebra"">biquaternion algebra</a> is a <a href=""https://en.wikipedia.org/wiki/Division_algebra"" title=""Division algebra"">division algebra</a>.<sup id=""cite_ref-Lam342_7-0"" class=""reference""><a href=""#cite_note-Lam342-7"">&#91;7&#93;</a></sup></dd></dl>
 <dl><dt><b>Frobenius field</b></dt>
 <dd>A <a href=""https://en.wikipedia.org/wiki/Pseudo_algebraically_closed_field"" title=""Pseudo algebraically closed field"">pseudo algebraically closed field</a> whose <a href=""https://en.wikipedia.org/wiki/Absolute_Galois_group"" title=""Absolute Galois group"">absolute Galois group</a> has the embedding property.<sup id=""cite_ref-FJ564_8-0"" class=""reference""><a href=""#cite_note-FJ564-8"">&#91;8&#93;</a></sup></dd></dl>
-<h2><span class=""mw-headline"" id=""Field_extensions"">Field extensions</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=5"" title=""Edit section: Field extensions"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <p>Let <i>E</i> / <i>F</i> be a field extension.
 </p>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Algebraic_extension"" title=""Algebraic extension"">Algebraic extension</a></b>&#160;</dt>
@@ -199,7 +195,6 @@
 <ol><li>If <i>E</i> is a C-extension of <i>F</i> and <i>F</i> is a C-extension of <i>K</i> then <i>E</i> is a C-extension of <i>K</i>.</li>
 <li>If <i>E</i> and <i>F</i> are C-extensions of <i>K</i> in a common overfield <i>M</i>, then the <a href=""https://en.wikipedia.org/wiki/Compositum"" class=""mw-redirect"" title=""Compositum"">compositum</a> <i>EF</i> is a C-extension of <i>K</i>.</li>
 <li>If <i>E</i> is a C-extension of <i>F</i> and <i>E</i>&gt;<i>K</i>&gt;<i>F</i> then <i>E</i> is a C-extension of <i>K</i>.</li></ol></dd></dl>
-<h2><span class=""mw-headline"" id=""Galois_theory"">Galois theory</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=6"" title=""Edit section: Galois theory"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Galois_extension"" title=""Galois extension"">Galois extension</a></b>&#160;</dt>
 <dd>A normal, separable field extension.</dd></dl>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Galois_group"" title=""Galois group"">Galois group</a></b>&#160;</dt>
@@ -212,7 +207,6 @@
 <dd>A basis in the vector space sense of <i>L</i> over <i>K</i>, on which the Galois group of <i>L</i> over <i>K</i> acts transitively.</dd></dl>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Tensor_product_of_fields"" title=""Tensor product of fields"">Tensor product of fields</a></b>&#160;</dt>
 <dd>A different foundational piece of algebra, including the <a href=""https://en.wikipedia.org/wiki/Compositum"" class=""mw-redirect"" title=""Compositum"">compositum</a> operation (<a href=""https://en.wikipedia.org/wiki/Join_(mathematics)"" class=""mw-redirect"" title=""Join (mathematics)"">join</a> of fields).</dd></dl>
-<h2><span class=""mw-headline"" id=""Extensions_of_Galois_theory"">Extensions of Galois theory</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[</span><a href=""https://en.wikipedia.org/w/index.php?title=Glossary_of_field_theory&amp;action=edit&amp;section=7"" title=""Edit section: Extensions of Galois theory"">edit</a><span class=""mw-editsection-bracket"">]</span></span></h2>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Inverse_problem_of_Galois_theory"" class=""mw-redirect"" title=""Inverse problem of Galois theory"">Inverse problem of Galois theory</a></b>&#160;</dt>
 <dd>Given a group <i>G</i>, find an extension of the rational number or other field with <i>G</i> as Galois group.</dd></dl>
 <dl><dt><b><a href=""https://en.wikipedia.org/wiki/Differential_Galois_theory"" title=""Differential Galois theory"">Differential Galois theory</a></b>&#160;</dt>
