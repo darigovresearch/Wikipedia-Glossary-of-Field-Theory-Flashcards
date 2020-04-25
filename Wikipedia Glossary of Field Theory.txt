@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Field Theory)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_field_theory"">Wikipedia's Glossary of field theory</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Field Theory)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Field-Theory-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Field-Theory-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_field_theory"">""Glossary of field theory""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_field_theory"">https://en.wikipedia.org/wiki/Glossary_of_field_theory</a></p>
+"
 "Field (Wikipedia Glossary of Field Theory)"|"<p>A <b>field</b> is a <a href=""https://en.wikipedia.org/wiki/Commutative_ring"" title=""Commutative ring"">commutative ring</a> (<i>F</i>,+,*) in which 0≠1 and every nonzero element has a multiplicative inverse.  In a field we thus can perform the operations addition, subtraction, multiplication, and division.
 </p><p>The non-zero elements of a field <i>F</i> form an <a href=""https://en.wikipedia.org/wiki/Abelian_group"" title=""Abelian group"">abelian group</a> under multiplication; this group is typically denoted by <i>F</i><sup>×</sup>;
 </p><p>The <a href=""https://en.wikipedia.org/wiki/Polynomial_ring"" title=""Polynomial ring"">ring of polynomials</a> in the variable <i>x</i> with coefficients in <i>F</i> is denoted by <i>F</i>[<i>x</i>].
